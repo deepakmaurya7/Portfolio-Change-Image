@@ -1,6 +1,6 @@
 # Portfolio-Change-Image
 <pr>
-A dynamic portfolio website created using React,
+A dynamic portfolio website Change image created using React,
   <pr>
   featuring smooth animations, responsive design,
      <pr>
